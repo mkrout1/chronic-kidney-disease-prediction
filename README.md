@@ -1,4 +1,4 @@
-- [Chronic-KIdney-Disease](#chronic-kidney-disease)
+- [Chronic-Kidney-Disease](#chronic-kidney-disease)
 - [Data set information](#data-set-information)
   - [Features](#features)
 - [Preprocessing](#preprocessing)
